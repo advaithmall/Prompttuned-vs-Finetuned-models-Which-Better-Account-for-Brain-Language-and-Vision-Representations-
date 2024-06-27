@@ -1,0 +1,74 @@
+{
+    "decoding fine-tuned-summarization with subj1_lang": {
+        "MSE": 0.41692516945067587,
+        "R2": -0.8019612808247804,
+        "Accuracy": 0.673699743983615,
+        "Correlation": 0.9544017007764758
+    },
+    "decoding fine-tuned-summarization with subj1_vis": {
+        "MSE": 0.39084791091594606,
+        "R2": -0.6896086010065352,
+        "Accuracy": 0.6787705069124425,
+        "Correlation": 0.9571530443214094
+    },
+    "decoding fine-tuned-summarization with subj1_dmn": {
+        "MSE": 0.3938045747674267,
+        "R2": -0.6971755711243084,
+        "Accuracy": 0.6303516641065028,
+        "Correlation": 0.9568386984066433
+    },
+    "decoding fine-tuned-summarization with subj1_task": {
+        "MSE": 0.34106144839845903,
+        "R2": -0.46737424504526703,
+        "Accuracy": 0.6436487455197133,
+        "Correlation": 0.9624091724452206
+    },
+    "decoding fine-tuned-question-answering with subj1_lang": {
+        "MSE": 0.419272794888068,
+        "R2": -0.8096041084448489,
+        "Accuracy": 0.6524940092165898,
+        "Correlation": 0.9544916960618728
+    },
+    "decoding fine-tuned-question-answering with subj1_vis": {
+        "MSE": 0.39466602043034593,
+        "R2": -0.7027753948125922,
+        "Accuracy": 0.6457745007680492,
+        "Correlation": 0.9570191542898444
+    },
+    "decoding fine-tuned-question-answering with subj1_dmn": {
+        "MSE": 0.39719917784617065,
+        "R2": -0.709646130766465,
+        "Accuracy": 0.6028923707117255,
+        "Correlation": 0.956723694549883
+    },
+    "decoding fine-tuned-question-answering with subj1_task": {
+        "MSE": 0.34327483559744476,
+        "R2": -0.4752228768488817,
+        "Accuracy": 0.6298750640040962,
+        "Correlation": 0.9624611233021264
+    },
+    "decoding fine-tuned-translation with subj1_lang": {
+        "MSE": 0.4125637011300068,
+        "R2": -0.8093906454333762,
+        "Accuracy": 0.6661824884792626,
+        "Correlation": 0.9498060662601333
+    },
+    "decoding fine-tuned-translation with subj1_vis": {
+        "MSE": 0.38763659582470406,
+        "R2": -0.700535513373924,
+        "Accuracy": 0.672794674859191,
+        "Correlation": 0.9527344753658804
+    },
+    "decoding fine-tuned-translation with subj1_dmn": {
+        "MSE": 0.3891405586023013,
+        "R2": -0.7023881561868409,
+        "Accuracy": 0.6258461853558628,
+        "Correlation": 0.9525146528186641
+    },
+    "decoding fine-tuned-translation with subj1_task": {
+        "MSE": 0.3333748383002843,
+        "R2": -0.45542660792621137,
+        "Accuracy": 0.6779006656426011,
+        "Correlation": 0.9590640741140166
+    }
+}

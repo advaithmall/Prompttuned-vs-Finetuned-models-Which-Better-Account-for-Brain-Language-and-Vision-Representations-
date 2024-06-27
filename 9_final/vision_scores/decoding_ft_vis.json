@@ -1,0 +1,62 @@
+{
+    "Decoding fine_tuned mnist using LOC": {
+        "MSE": 0.02647252763808956,
+        "R2": 0.0041543671112207504,
+        "Accuracy": 0.8235325833491546,
+        "Correlation": 0.23793717340274717
+    },
+    "Decoding fine_tuned mnist using OPA": {
+        "MSE": 0.026411095184719936,
+        "R2": 0.006623931100048873,
+        "Accuracy": 0.8358981411665425,
+        "Correlation": 0.24200780397250493
+    },
+    "Decoding fine_tuned mnist using PPA": {
+        "MSE": 0.026713450675021684,
+        "R2": -0.004788656731036923,
+        "Accuracy": 0.7780233649824237,
+        "Correlation": 0.22365200167580984
+    },
+    "Decoding fine_tuned mnist using RSC": {
+        "MSE": 0.026618749949985053,
+        "R2": -0.0012165771386583393,
+        "Accuracy": 0.738504008476591,
+        "Correlation": 0.22724555255039086
+    },
+    "Decoding fine_tuned mnist using EarlyVis": {
+        "MSE": 0.026608115951055066,
+        "R2": -0.0008148879601172927,
+        "Accuracy": 0.7621128791899664,
+        "Correlation": 0.22870076157186792
+    },
+    "Decoding fine_tuned cifar using LOC": {
+        "MSE": 0.002414068100435133,
+        "R2": 0.03158524498904663,
+        "Accuracy": 0.8187468950197164,
+        "Correlation": 0.9732142639837548
+    },
+    "Decoding fine_tuned cifar using OPA": {
+        "MSE": 0.0024108995244888818,
+        "R2": 0.032956543591406165,
+        "Accuracy": 0.8206019237103114,
+        "Correlation": 0.9732475614129598
+    },
+    "Decoding fine_tuned cifar using PPA": {
+        "MSE": 0.002421911230435,
+        "R2": 0.027879907209845723,
+        "Accuracy": 0.8092526875381981,
+        "Correlation": 0.9731317096465604
+    },
+    "Decoding fine_tuned cifar using RSC": {
+        "MSE": 0.002442584522381986,
+        "R2": 0.020563969627406815,
+        "Accuracy": 0.7418108746981601,
+        "Correlation": 0.9728956524088307
+    },
+    "Decoding fine_tuned cifar using EarlyVis": {
+        "MSE": 0.0024159126630882545,
+        "R2": 0.030432536446096458,
+        "Accuracy": 0.8097167713901884,
+        "Correlation": 0.973198799641005
+    }
+}

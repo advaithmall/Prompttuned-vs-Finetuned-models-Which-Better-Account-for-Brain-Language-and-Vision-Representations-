@@ -1,0 +1,74 @@
+{
+    "decoding prompt-tuned-summarization with subj2_lang": {
+        "MSE": 0.4139036434330185,
+        "R2": -0.9271034626312931,
+        "Accuracy": 0.727136712749616,
+        "Correlation": 0.9452519543733832
+    },
+    "decoding prompt-tuned-summarization with subj2_vis": {
+        "MSE": 0.3945455932026454,
+        "R2": -0.8340644573931988,
+        "Accuracy": 0.7316608294930875,
+        "Correlation": 0.9476600053016186
+    },
+    "decoding prompt-tuned-summarization with subj2_dmn": {
+        "MSE": 0.3998100960872937,
+        "R2": -0.8595109074048943,
+        "Accuracy": 0.7142044034818229,
+        "Correlation": 0.947060189286445
+    },
+    "decoding prompt-tuned-summarization with subj2_task": {
+        "MSE": 0.35077004519126753,
+        "R2": -0.6250790389973478,
+        "Accuracy": 0.7126539682539683,
+        "Correlation": 0.9532297534357799
+    },
+    "decoding prompt-tuned-question-answering with subj2_lang": {
+        "MSE": 0.4139036434330185,
+        "R2": -0.9271034626312931,
+        "Accuracy": 0.727136712749616,
+        "Correlation": 0.9452519543733832
+    },
+    "decoding prompt-tuned-question-answering with subj2_vis": {
+        "MSE": 0.3945455932026454,
+        "R2": -0.8340644573931988,
+        "Accuracy": 0.7316608294930875,
+        "Correlation": 0.9476600053016186
+    },
+    "decoding prompt-tuned-question-answering with subj2_dmn": {
+        "MSE": 0.3998100960872937,
+        "R2": -0.8595109074048943,
+        "Accuracy": 0.7142044034818229,
+        "Correlation": 0.947060189286445
+    },
+    "decoding prompt-tuned-question-answering with subj2_task": {
+        "MSE": 0.35077004519126753,
+        "R2": -0.6250790389973478,
+        "Accuracy": 0.7126539682539683,
+        "Correlation": 0.9532297534357799
+    },
+    "decoding prompt-tuned-translation with subj2_lang": {
+        "MSE": 0.22888943881375137,
+        "R2": -0.6966292774174742,
+        "Accuracy": 0.6606990271377368,
+        "Correlation": 0.998842165998596
+    },
+    "decoding prompt-tuned-translation with subj2_vis": {
+        "MSE": 0.24006601320970833,
+        "R2": -0.6141613197891107,
+        "Accuracy": 0.665368561187916,
+        "Correlation": 0.9988804338023366
+    },
+    "decoding prompt-tuned-translation with subj2_dmn": {
+        "MSE": 0.22820536648596637,
+        "R2": -0.6668713014982955,
+        "Accuracy": 0.6383490015360984,
+        "Correlation": 0.9988361922414836
+    },
+    "decoding prompt-tuned-translation with subj2_task": {
+        "MSE": 0.21055305811577196,
+        "R2": -0.4823323738101248,
+        "Accuracy": 0.6451535074244752,
+        "Correlation": 0.9989869502257841
+    }
+}
